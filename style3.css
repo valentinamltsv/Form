@@ -1,0 +1,16 @@
+legend{
+	color: red;
+	font-size: 50px;
+}
+fieldset{
+	background-color: LightGreen;
+	display: block;
+}
+
+.send{
+	color:white;
+	background-color: orange;
+}
+form{
+	text-align: justify;
+}
